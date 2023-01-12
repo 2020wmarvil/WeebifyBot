@@ -1,5 +1,5 @@
 # WeebifyBot
-"Improves" your server's images by turning them into anime with the power of friendship.
+"Improves" your server's images by turning them into anime with the power of friendship (and AI).
 
 ## Building the project
 
